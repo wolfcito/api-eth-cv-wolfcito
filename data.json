@@ -1,0 +1,130 @@
+{
+  "data": {
+    "name": "Luis Fernando Ushiña Gualpa",
+    "profession": "Software Architect",
+    "address": "Quito, Ecuador.",
+    "email": "guffenix@gmail.com",
+    "website": "https://mundovirtual.solutions",
+    "phone": "0987209133",
+    "avatar": "https://scontent.fuio10-1.fna.fbcdn.net/v/t39.30808-6/244307654_6444073402277250_3544623960110572980_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFv6gUmYwUWZyR54PhSd4Gi0tV003EmcgjS1XTTcSZyCCbU0G39w0xCbrg6m3-Ni4_H09PSkZLWNTvmn43s49Gb&_nc_ohc=0Atbg8fopZQAX_LAeBv&_nc_ht=scontent.fuio10-1.fna&oh=00_AT_B-FO5bHwmmGM2go9vwgtgTBCnOi7PGE7gCtOEW0lt3g&oe=62CF90C8",
+    "Profile": "Hola soy Luis Fernando de Ecuador, actualmente soy Arquitecto Desarrollador de Software 🌈, una de mis tecnologías favoritas es java 💚 ! Me gustan los retos, el aprendizaje, viajar, comer y conocer nuevas culturas! Siento que la frase que me representa en esta etapa de mi vida es 'Senri no michi mo, ippou kara' es decir 'Un camino de mil millas, empieza por un primer paso' 🐺 . De mis hobbies el top 3 lo encabezan el ajedrez, cantar  y pienso que soy el ejemplo perfecto de que se puede ser gordito y practicar taekwondo al mismo tiempo. ",
+    "certificate": [
+      {
+        "date": "June 2022",
+        "description": "Techniques to nurture your confidence.",
+        "institution": "Platzi",
+        "name": "Developing Self-Confidence"
+      },
+      {
+        "date": "April 2022",
+        "description": "Java focused backend development",
+        "institution": "Platzi",
+        "name": "Backend Developer Java"
+      },
+      {
+        "date": "Jan 2022",
+        "description": "Productivity and reduced turnaround times, effective risk management",
+        "institution": "Certipro",
+        "name": "Scrum Master Certificate"
+      }
+    ],
+    "Academic": [
+      {
+        "degree": "Systems and Computer Engineer",
+        "description": "Design, program, implement and maintain computer systems. Manage networks and information systems.",
+        "endDate": "Jan 2020",
+        "institution": "ESPE",
+        "startDate": "Jan 2015"
+      },
+      {
+        "degree": "Graduate of mathematical physicist",
+        "description": "Problem solving, logical knowledge and even computer tools and more.",
+        "endDate": "Dec 2013",
+        "institution": "Salinas High School",
+        "startDate": "Jan 2008"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Ceiba Software",
+        "endDate": "Present",
+        "jobDescription": "Analyze, design and develop software following the process defined in the company.",
+        "jobTitle": "Software Architect",
+        "startDate": "Feb 2022"
+      },
+      {
+        "company": "Emagic",
+        "endDate": "Jan Ene 2022",
+        "jobDescription": "Design and develop software following the process defined in the company.",
+        "jobTitle": "Java Software Engineer",
+        "startDate": "Dec 2017"
+      },
+      {
+        "company": "Bigdata",
+        "endDate": "Nov 2017",
+        "jobDescription": "Design and develop software following the process defined in the company.",
+        "jobTitle": "Software Developer",
+        "startDate": "Jan 2017"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "percentage": "99%"
+      },
+      {
+        "name": "CSS3",
+        "percentage": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "percentage": "99%"
+      },
+      {
+        "name": "React",
+        "percentage": "99%"
+      },
+      {
+        "name": "SQL",
+        "percentage": "99%"
+      },
+      {
+        "name": "HTML5",
+        "percentage": "99%"
+      }
+    ],
+    "interest": [
+      "javascript",
+      "develop",
+      "backend",
+      "frontend",
+      "blockchain",
+      "Web3",
+      "Ethereum"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "percentage": "nativo"
+      },
+      {
+        "name": "English",
+        "percentage": "intermedio"
+      }
+    ],
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/guffenix"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/guffenix"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/guffenix"
+      }
+    ]
+  }
+}
