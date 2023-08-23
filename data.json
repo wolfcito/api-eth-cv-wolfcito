@@ -1,12 +1,12 @@
 {
   "data": {
     "name": "Luis Fernando Ushiña Gualpa",
-    "profession": "Software Architect",
+    "profession": "Software Developer Architect",
     "address": "Quito, Ecuador.",
     "email": "guffenix@gmail.com",
-    "website": "https://mundovirtual.solutions",
+    "website": "https://wolfcito.mundovirtual.solutions/",
     "phone": "0987209133",
-    "avatar": "https://scontent.fuio10-1.fna.fbcdn.net/v/t39.30808-6/244307654_6444073402277250_3544623960110572980_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFv6gUmYwUWZyR54PhSd4Gi0tV003EmcgjS1XTTcSZyCCbU0G39w0xCbrg6m3-Ni4_H09PSkZLWNTvmn43s49Gb&_nc_ohc=0Atbg8fopZQAX_LAeBv&_nc_ht=scontent.fuio10-1.fna&oh=00_AT_B-FO5bHwmmGM2go9vwgtgTBCnOi7PGE7gCtOEW0lt3g&oe=62CF90C8",
+    "avatar": "https://res.cloudinary.com/guffenix/image/upload/v1690835232/mundovirtual/wolfcito/wolfcito-avatar_odhuel.jpg",
     "Profile": "Hola soy Luis Fernando de Ecuador, actualmente soy Arquitecto Desarrollador de Software 🌈, una de mis tecnologías favoritas es java 💚 ! Me gustan los retos, el aprendizaje, viajar, comer y conocer nuevas culturas! Siento que la frase que me representa en esta etapa de mi vida es 'Senri no michi mo, ippou kara' es decir 'Un camino de mil millas, empieza por un primer paso' 🐺 . De mis hobbies el top 3 lo encabezan el ajedrez, cantar  y pienso que soy el ejemplo perfecto de que se puede ser gordito y practicar taekwondo al mismo tiempo. ",
     "certificate": [
       {
@@ -94,6 +94,8 @@
       }
     ],
     "interest": [
+      "java",
+      "typescript",
       "javascript",
       "develop",
       "backend",
@@ -115,15 +117,15 @@
     "social": [
       {
         "name": "twitter",
-        "url": "https://twitter.com/guffenix"
+        "url": "https://twitter.com/AKAwolfcito"
       },
       {
         "name": "github",
-        "url": "https://github.com/guffenix"
+        "url": "https://github.com/wolfcito"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/guffenix"
+        "url": "https://www.linkedin.com/in/wolfcito"
       }
     ]
   }
